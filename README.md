@@ -61,3 +61,44 @@ At the bottom of every page, there’s a Contact link. There’s a specific Medi
 That’s probably a communications plan from the city. LA- resilience by design is a plan by Mayor Eric Garcetti. For individuals, check for tips. For example, you can include chalk with your earthquake kits. Chalk or sharpies, standalone battery chargers, solar chargers, and check with your local community. 
 https://www.lamayor.org/resilience-design-building-stronger-los-angeles
 Tips for your audiences to stay safe following an earthquake: www.earthquakecountry.org/step6 (Step 6: Improve Safety, of the Seven Steps to Earthquake Safety)
+
+## Additional links and resources:
+Recording available here: http://youtu.be/gS4OQalizB8
+
+Additionally, a handy summary guide: 
+
+http://goo.gl/DHVu8N
+
+Here are some other links and resources the GMC wanted to make sure you are all aware of: 
+
+## USGS
+
+USGS Earthquake Hazards Program website - http://earthquake.usgs.gov
+USGS Earthquake Notification Service (ENS) - http://earthquake.usgs.gov/ens/
+USGS Latest Earthquakes - http://earthquake.usgs.gov/earthquakes/map/
+USGS EQ Lists, Maps, and Statistics - http://earthquake.usgs.gov/earthquakes/browse/
+USGS Learn About Earthquakes - http://earthquake.usgs.gov/learn/ (note the FAQs are broken right now; thank you USGS!)
+USGS Science for Everyone! - http://earthquake.usgs.gov/research/everyone/
+
+## NOAA
+
+NOAA’s NWS “Tsunami Alerts” site: http://www.tsunami.gov
+NOAA’s NWS Tsunami Message Subscriptions: http://tsunami.gov/?page=productRetrieval
+
+## IRIS
+
+IRIS Ground Motion Visualization Resources - http://ds.iris.edu/ds/products/usarraygmv/
+IRIS Recent Earthquake Teachable Moments: http://www.iris.edu/hq/retm/
+IRIS Earthquake Animations: http://www.iris.edu/hq/inclass/search#type=1
+
+## SCEC
+
+SCEC Media Page - http://www.SCEC.org/media
+Seven Steps to Earthquake Safety: http://www.EarthquakeCountry.org/sevensteps
+Preparedness Information in Spanish: http://www.Terremotos.org
+Great ShakeOut Earthquake Drills: http://www.ShakeOut.org
+
+## UNAVCO
+
+UNAVCO Plate Boundary Observatory maps: http://www.unavco.org/education/outreach/giveaways/velocity-map-posters/velocity-map-posters.html
+UNAVCO Geophysical Response site: http://www.unavco.org/projects/project-support/geophysical-event-response/geophysical-event-response.html
