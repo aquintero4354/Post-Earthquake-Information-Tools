@@ -4,7 +4,7 @@ Recent Earthquakes - Gathering and Sharing Information with the USGS Website
 Notes from webinar session with USGS and NOAA scientists about finding most relevant earthquake info
 
 Presenters:
-Lisa Wald, Wendy Bohon, Beth, Cindy 
+Lisa Wald, Wendy Bohon, Beth Bartel, Cindi Preller 
 
 Session facilitated by Jason Ballman, Southern California Earthquake Center
 University of Southern California  
